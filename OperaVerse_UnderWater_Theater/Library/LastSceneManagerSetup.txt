@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Roy/Underwater_Theater_360_Video.unity
+- path: Assets/UnderWaterTheater-Apples/Roy/Underwater_Theater_360_Video.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
